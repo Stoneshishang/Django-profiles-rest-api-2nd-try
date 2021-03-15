@@ -1,0 +1,1 @@
+This is the Udemy Django API sample project that started from Ford's Laptop, because I have a hard time to set up the same project from my personal github on Ford's Laptop. 
